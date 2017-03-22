@@ -25,7 +25,9 @@ Most of the time you don't need to draw your own icons, or take your own photos.
   
   Millions of high-quality royalty-free stock images and high-definition footage at the best prices to fill all your creative needs.
 
-+[Openprocessing](https://www.openprocessing.org/) OpenProcessing - Algorithmic Designs Created with Processing
++ [Openprocessing](https://www.openprocessing.org/) OpenProcessing - Algorithmic Designs Created with Processing
++ [Colossal](http://www.thisiscolossal.com)
++ [50Watts](http://50watts.com/)
 
 ## Icons
 
@@ -33,6 +35,8 @@ Most of the time you don't need to draw your own icons, or take your own photos.
 + http://www.streamlineicons.com/
 + http://www.pixeden.com/media-icons/tab-bar-icons-ios-7-vol5
 + https://dribbble.com/shots/1344983-Simple-Line-Icons-100-free-icons-Ai-Eps-Svg-Psd
++ [Icons for Everything](https://thenounproject.com/) Noun Project - Icons for Everything
++ [Icon Moon](https://icomoon.io/app/#/select) IcoMoon App - Icon Font, SVG, PDF & PNG Generator
 
 ## Fonts
 
@@ -55,6 +59,8 @@ The easiest way to build a color pallete is by sampling colors from an existing 
 + [Adobe Kuler Color Wheel](https://kuler.adobe.com/create/color-wheel/)
 
 + [Brand Colors](http://brandcolors.net/)
++ [Flat UI colors](http://flatuicolors.com/) http://flatuicolors.com/
++ [color scheme designer](http://www.peise.net/tools/web/) Color Scheme Designer 3_高级在线配色器_配色网
 
 ##  Guidelines
 + [iOS Human Interface Guidelines10](https://developer.apple.com/ios/human-interface-guidelines/)
@@ -84,6 +90,7 @@ The easiest way to build a color pallete is by sampling colors from an existing 
 + http://sebastien-gabriel.com/freebies.html
 + http://osvaldas.info
 + http://www.sketchcasts.net/episodes
++ http://myartda.com/
 
 ## Community 
 **国际上前沿的设计资源才是你应该看看的啊喂！不要在看国内某某搬运过来的啦~**
@@ -94,6 +101,9 @@ The easiest way to build a color pallete is by sampling colors from an existing 
 + [Reeoo](http://reeoo.com/) 也是一个专门收集优秀网页设计网站，提供了详细的分类目录，从 App，艺术，卡通到摄影，体育一应具全，还可以根据颜色的主题筛选，非常好用。
 + [land-book](http://land-book.com/)  LandBook 专门收集了优秀的 landing page 页面，品类齐全
 + [call to idea](http://www.calltoidea.com/) 一个以类别为线索收集各种设计的网站，专业，精美，是激发灵感的好地方。把同类别的优秀设计统观一遍，你就能发现很多共通之处
++ [Photoshopvip](http://photoshopvip.net/)
++ [FACETS](http://www.facets.la/)FACETS
+
 
 + [google art-project](https://www.google.com/culturalinstitute/project/art-project?hl=en-gb) 
 
@@ -193,6 +203,17 @@ The easiest way to build a color pallete is by sampling colors from an existing 
 + Inspr（iOS）－ 移动端原型设计利器，相比Napkin，inspr 除了有基本的图片、文字、形状等元素，还内置了多种标准的 iOS 组件可以直接使用。
 
 + zeeen-dribble第三方客户端，很好看的卡片风格，智能算法当用户在查看不同风格作品的时候，自动将页面的字体、背景色与作品的色调搭配，仿佛将作品融为一体，非常精妙。
++ [renyuan](http://yuanren.cc/)代码做动态视觉交互的设计师
+
+## Advertising
++ [Adeevee](http://www.adeevee.com/ads/index_reset/)Adeevee 
++ [Coloribus](https://www.coloribus.com/)
++ [Waaaat](http://waaaat.welovead.com/cn/)waaaat? | 创意资讯分享平台
++ [SocialBeta](http://socialbeta.com/)SocialBeta | 领先的社交媒体和数字营销内容与招聘平台
++ [TOPYS](http://www.topys.cn/index)TOPYS | 全球顶尖创意分享平台 OPEN YOUR MIND
+
+##GIF
++ [gifparanoia](http://www.gifparanoia.org/)I AM NOT AN ARTIST - AN ANIMATED GIF PARANOIA ABOUT NONSTOP DESIGN WORKERS
 
 # Book List
 ##交互设计
