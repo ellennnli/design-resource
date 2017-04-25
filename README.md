@@ -28,6 +28,7 @@ Most of the time you don't need to draw your own icons, or take your own photos.
 + [Openprocessing](https://www.openprocessing.org/) OpenProcessing - Algorithmic Designs Created with Processing
 + [Colossal](http://www.thisiscolossal.com)
 + [50Watts](http://50watts.com/)
++ 信息图[http://www.lucasinfografia.com/]
 
 ## Icons
 
