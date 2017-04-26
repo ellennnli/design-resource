@@ -344,3 +344,12 @@ Windows 用户体验交互设计规范★（微软的设计指南最为详细，
 Google TV Design Patterns
 Google Glass Guidelines
 Android Wear Guidelines
+#cool web
++ http://70ans.inra.fr/
++ http://dev.weareglow.com/syfy_hunters/ 点阵
++ http://www.space-advisor.ca/en/# 宇宙/空间
++ http://www.brakebillsu.com/game 第一视角/视频/交互
++ http://waaark.com/ 扁平/交互
++ http://resn.co.nz/
++ http://chordsurfer.redbull.com/
++ http://www.digitaling.com/articles/33517.htm
